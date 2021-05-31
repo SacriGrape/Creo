@@ -16,4 +16,5 @@ repositories {
 dependencies {
     implementation 'com.github.Minestom:Minestom:-SNAPSHOT'
     implementation 'net.kyori:adventure-text-minimessage:4.1.0-SNAPSHOT'
+    implementation 'org.json:json:20210307'
 }
